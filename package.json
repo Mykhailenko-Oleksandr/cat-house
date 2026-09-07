@@ -1,0 +1,24 @@
+{
+  "name": "cat-house",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "servor --reload"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mykhailenko-Oleksandr/cat-house.git"
+  },
+  "keywords": [],
+  "author": "Oleksandr Mykhailenko <saniamykhailenko@gmail.com>",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Mykhailenko-Oleksandr/cat-house/issues"
+  },
+  "homepage": "https://github.com/Mykhailenko-Oleksandr/cat-house#readme",
+  "dependencies": {
+    "servor": "^4.0.2"
+  }
+}
